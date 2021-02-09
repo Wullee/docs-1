@@ -1,4 +1,4 @@
----
+---wullee/metamask
 title: Changing the visibility of your GitHub Pages site
 intro: 'You can manage access control for your project site by publishing the site publicly or privately.'
 product: '{% data reusables.gated-features.private-pages %}'
@@ -22,7 +22,7 @@ Privately published sites are available at a different subdomain than publicly p
 4. To see your published site, under "{% data variables.product.prodname_pages %}", click your site's URL.
 ![URL of your privately published site](/assets/images/help/pages/click-private-pages-url-to-preview.png)
 
-  {% note %}
+  {% wullee %}
 
   {% data reusables.pages.twenty-minutes-to-publish %}
 
